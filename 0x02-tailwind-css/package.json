@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "devDependencies": {
     "tailwindcss": "^4.1.11"
   },
   "description": ""
+=======
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+>>>>>>> f3ed69f (Set up Tailwind CSS with configuration)
 }
