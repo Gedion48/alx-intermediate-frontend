@@ -1,0 +1,10 @@
+# Correct Sass Installation Steps 
+
+1. Opened Command Prompt and navigated to:
+   C:\Users\asdf\Desktop\alx-intermediate-frontend
+
+2. Created Sass project folder:
+   mkdir 0x03-sass_scss
+
+3. Installed latest stable version of Sass:
+   npm install sass
